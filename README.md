@@ -4,5 +4,6 @@
 
 Start the program using `python`
 
-```python3 ./main.py```
-
+```
+python3 ./main.py
+```
